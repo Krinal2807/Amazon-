@@ -6,24 +6,24 @@ This project is a front-end web layout clone of the Amazon India homepage. It wa
 
 # Project Description
 
-The Amazon Clone Front-End Project replicates the user interface of the Amazon India website, providing users with a familiar online shopping layout experience. It includes:
+- The Amazon Clone Front-End Project replicates the user interface of the Amazon India website, providing users with a familiar online shopping layout experience. It includes:
 
-A responsive top navigation bar with a logo, location display, search bar, and cart icon.
+- A responsive top navigation bar with a logo, location display, search bar, and cart icon.
 
-A dynamic hero section with a promotional banner.
+- A dynamic hero section with a promotional banner.
 
-Multiple product category sections displayed using flexbox for a neat grid arrangement.
+- Multiple product category sections displayed using flexbox for a neat grid arrangement.
 
-A structured footer section with various informational links and branding.
+- A structured footer section with various informational links and branding.
 
-This project does not include backend functionality or real-time product data — it is purely a static front-end demonstration to practice CSS layout techniques and UI cloning.
+- This project does not include backend functionality or real-time product data — it is purely a static front-end demonstration to practice CSS layout techniques and UI cloning.
 
 # Objectives
 
-To practice and implement advanced HTML and CSS styling techniques.
+- To practice and implement advanced HTML and CSS styling techniques.
 
-To improve proficiency in Flexbox and responsive layout management.
+- To improve proficiency in Flexbox and responsive layout management.
 
-To demonstrate an understanding of component-based styling using organized CSS classes.
+- To demonstrate an understanding of component-based styling using organized CSS classes.
 
 
